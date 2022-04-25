@@ -1,0 +1,24 @@
+img{
+width:20%;
+border-radius:50%
+}
+.sp,.di{
+  margin:20px;
+}
+body{
+color:green;
+font-family:Roboto;
+font-size:40px;
+text-align:center;
+background:linear-gradient(#64FFDA 0%,#C5E1A5 100%);
+}
+p{
+font-family:Dongle;
+}
+
+  
+h1{
+ color:blue powderblue;
+font-family:Roboto;
+font-size:50px;
+    }
